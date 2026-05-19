@@ -147,14 +147,4 @@ pytest tests/ -v
 
 ---
 
-## References
 
-- [NIST SP 800-63B Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
-- [HaveIBeenPwned API](https://haveibeenpwned.com/API/v3)
-- [k-Anonymity Model](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/)
-
----
-
-## License
-
-MIT — free to use, modify, and distribute.
